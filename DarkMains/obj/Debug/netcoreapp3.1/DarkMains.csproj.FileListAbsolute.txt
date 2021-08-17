@@ -1,0 +1,13 @@
+C:\Users\ChristopherWalther\RiderProjects\DarkMains\DarkMains\bin\Debug\netcoreapp3.1\DarkMains.exe
+C:\Users\ChristopherWalther\RiderProjects\DarkMains\DarkMains\bin\Debug\netcoreapp3.1\DarkMains.deps.json
+C:\Users\ChristopherWalther\RiderProjects\DarkMains\DarkMains\bin\Debug\netcoreapp3.1\DarkMains.runtimeconfig.json
+C:\Users\ChristopherWalther\RiderProjects\DarkMains\DarkMains\bin\Debug\netcoreapp3.1\DarkMains.runtimeconfig.dev.json
+C:\Users\ChristopherWalther\RiderProjects\DarkMains\DarkMains\bin\Debug\netcoreapp3.1\DarkMains.dll
+C:\Users\ChristopherWalther\RiderProjects\DarkMains\DarkMains\bin\Debug\netcoreapp3.1\DarkMains.pdb
+C:\Users\ChristopherWalther\RiderProjects\DarkMains\DarkMains\obj\Debug\netcoreapp3.1\DarkMains.csproj.AssemblyReference.cache
+C:\Users\ChristopherWalther\RiderProjects\DarkMains\DarkMains\obj\Debug\netcoreapp3.1\DarkMains.AssemblyInfoInputs.cache
+C:\Users\ChristopherWalther\RiderProjects\DarkMains\DarkMains\obj\Debug\netcoreapp3.1\DarkMains.AssemblyInfo.cs
+C:\Users\ChristopherWalther\RiderProjects\DarkMains\DarkMains\obj\Debug\netcoreapp3.1\DarkMains.csproj.CoreCompileInputs.cache
+C:\Users\ChristopherWalther\RiderProjects\DarkMains\DarkMains\obj\Debug\netcoreapp3.1\DarkMains.dll
+C:\Users\ChristopherWalther\RiderProjects\DarkMains\DarkMains\obj\Debug\netcoreapp3.1\DarkMains.pdb
+C:\Users\ChristopherWalther\RiderProjects\DarkMains\DarkMains\obj\Debug\netcoreapp3.1\DarkMains.genruntimeconfig.cache
